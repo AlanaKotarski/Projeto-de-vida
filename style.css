@@ -25,8 +25,7 @@
         margin: 0 auto;
     }
 
-    .titulo-principal span {
-        color: var(--verde);
+    .titulo-principal {
         text-align: left;
         width: 100%;
         font-size: 32px;
