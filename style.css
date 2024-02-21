@@ -26,7 +26,7 @@
     }
 
     .titulo-principal {
-        text-align: left;
+        text-align: center;
         width: 100%;
         font-size: 32px;
 }
@@ -63,6 +63,9 @@
 
     .botao:first-child {
         border-radius: 40px 40px 0 0;
+    }
+    .botao:last-child {
+        border-radius: 0 40px 0 0;}
     }
 
     
